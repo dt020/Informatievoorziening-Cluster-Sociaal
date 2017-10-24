@@ -163,7 +163,7 @@
           href="ServingRelationship_be33c379.xml#be33c379"/>
     </sourceConnections>
     <bounds
-        x="753"
+        x="1320"
         y="384"
         width="120"
         height="55"/>
@@ -218,7 +218,7 @@
           href="AssignmentRelationship_0a68eb81.xml#0a68eb81"/>
     </sourceConnections>
     <bounds
-        x="753"
+        x="1320"
         y="204"
         width="120"
         height="55"/>
@@ -325,7 +325,7 @@
       id="ade3b044"
       targetConnections="b6f54418 54e5c8db">
     <bounds
-        x="753"
+        x="1320"
         y="288"
         width="120"
         height="55"/>
@@ -338,7 +338,7 @@
       id="224ee041"
       targetConnections="a88f31e9 3e5692ec">
     <bounds
-        x="897"
+        x="744"
         y="288"
         width="120"
         height="73"/>
@@ -359,7 +359,7 @@
           href="AssignmentRelationship_088db6ff.xml#088db6ff"/>
     </sourceConnections>
     <bounds
-        x="897"
+        x="744"
         y="204"
         width="120"
         height="55"/>
@@ -380,7 +380,7 @@
           href="ServingRelationship_efb7ad6c.xml#efb7ad6c"/>
     </sourceConnections>
     <bounds
-        x="897"
+        x="744"
         y="384"
         width="120"
         height="55"/>
@@ -394,7 +394,7 @@
       textAlignment="1"
       content="Gebruikers">
     <bounds
-        x="1200"
+        x="1512"
         y="211"
         width="72"
         height="30"/>
@@ -405,7 +405,7 @@
       textAlignment="1"
       content="Verantwoordelijkheid / taakgebied">
     <bounds
-        x="1200"
+        x="1512"
         y="297"
         width="130"
         height="37"/>
@@ -416,7 +416,7 @@
       textAlignment="1"
       content="Applicatie&#xD;&#xA;">
     <bounds
-        x="1200"
+        x="1512"
         y="396"
         width="68"
         height="24"/>
@@ -463,7 +463,7 @@
       textAlignment="1"
       content="Doelgroep&#xD;&#xA;">
     <bounds
-        x="1200"
+        x="1512"
         y="144"
         width="86"
         height="29"/>
@@ -472,23 +472,23 @@
       xsi:type="archimate:DiagramModelNote"
       id="85c26940"
       textAlignment="1"
-      content="56000 cliënten&#xD;&#xA;??? gebruikers&#xD;&#xA;Contract loopt tot ????">
+      content="56000 cliënten&#xD;&#xA;2000 gebruikers&#xD;&#xA;">
     <bounds
         x="36"
-        y="36"
+        y="60"
         width="120"
-        height="74"/>
+        height="50"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="9245cd1d"
       textAlignment="1"
-      content="??? Cliënten&#xD;&#xA;??? gebruikers&#xD;&#xA;Contract loopt tot ????">
+      content="??? Cliënten&#xD;&#xA;??? gebruikers&#xD;&#xA;">
     <bounds
         x="177"
-        y="36"
+        y="60"
         width="120"
-        height="74"/>
+        height="50"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -496,9 +496,9 @@
       textAlignment="1">
     <bounds
         x="321"
-        y="36"
+        y="60"
         width="120"
-        height="74"/>
+        height="50"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -513,7 +513,7 @@
           href="ServingRelationship_9c18ee7d.xml#9c18ee7d"/>
     </sourceConnections>
     <bounds
-        x="1044"
+        x="1176"
         y="384"
         width="120"
         height="55"/>
@@ -526,12 +526,102 @@
       id="7019d674"
       targetConnections="34bf7e2b">
     <bounds
-        x="1044"
+        x="1176"
         y="288"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_310d7554.xml#310d7554"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="128fd191-d3e7-45ac-a851-3ea01752c5c6"
+      textAlignment="1"
+      content="Contract afgesloten op 16 april 2015, te verlengen per kwartaal&#xD;&#xA;">
+    <bounds
+        x="36"
+        y="456"
+        width="549"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="aee73961-5a60-4351-82fd-bbe33d5adf18">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ea33fc02-6f01-40d8-bc1a-a8d07ffe42a8"
+        source="aee73961-5a60-4351-82fd-bbe33d5adf18"
+        target="26d2b315-436e-4a04-a69b-6a83fc669563">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_a1fa2762-7852-4160-8968-6febb02e71af.xml#a1fa2762-7852-4160-8968-6febb02e71af"/>
+    </sourceConnections>
+    <bounds
+        x="1032"
+        y="384"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_70754c62-5e94-4602-a3db-fc71ede72480.xml#70754c62-5e94-4602-a3db-fc71ede72480"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9fb8ece8-62a8-4886-9277-e06fd291c56f"
+      textAlignment="1"
+      content="Hannelore Mulier, manager Armoede en Participatie Zuidoost">
+    <bounds
+        x="1032"
+        y="492"
+        width="120"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="26d2b315-436e-4a04-a69b-6a83fc669563"
+      targetConnections="ea33fc02-6f01-40d8-bc1a-a8d07ffe42a8">
+    <bounds
+        x="1032"
+        y="288"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_80643c4a-0901-4c2d-8802-9d54b985dd51.xml#80643c4a-0901-4c2d-8802-9d54b985dd51"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3cd3105f-c65f-41c7-b850-5bb565cad80d">
+    <bounds
+        x="888"
+        y="384"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_346054a2-1213-4bb4-a1ad-47b78ff1d328.xml#346054a2-1213-4bb4-a1ad-47b78ff1d328"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="dbeb631f-99f9-45b4-b953-46346611178b"
+      textAlignment="1"
+      content="Contract Stadsdelen">
+    <bounds
+        x="609"
+        y="456"
+        width="543"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1533d16f-d663-4ed6-b58c-894649fc62fc"
+      textAlignment="1"
+      content="WPI contract">
+    <bounds
+        x="1176"
+        y="456"
+        width="264"
+        height="25"/>
   </children>
 </archimate:ArchimateDiagramModel>
