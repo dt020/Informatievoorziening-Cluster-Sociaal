@@ -394,7 +394,7 @@
       textAlignment="1"
       content="Gebruikers">
     <bounds
-        x="1512"
+        x="1452"
         y="211"
         width="72"
         height="30"/>
@@ -405,7 +405,7 @@
       textAlignment="1"
       content="Verantwoordelijkheid / taakgebied">
     <bounds
-        x="1512"
+        x="1452"
         y="297"
         width="130"
         height="37"/>
@@ -416,7 +416,7 @@
       textAlignment="1"
       content="Applicatie&#xD;&#xA;">
     <bounds
-        x="1512"
+        x="1452"
         y="396"
         width="68"
         height="24"/>
@@ -463,7 +463,7 @@
       textAlignment="1"
       content="Doelgroep&#xD;&#xA;">
     <bounds
-        x="1512"
+        x="1452"
         y="144"
         width="86"
         height="29"/>
