@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RIS Treiteraanpak"
-    id="a9c8c835"/>
+    id="a9c8c835"
+    documentation="Bereikbaar vanaf het Internet op https://trap.inforing.nl en op https://ris3.inforing.nl."/>

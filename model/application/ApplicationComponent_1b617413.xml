@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RIS MZWO"
-    id="1b617413"/>
+    id="1b617413"
+    documentation="Bereikbaar vanaf het Internet op https://ris3.inforing.nl"/>
