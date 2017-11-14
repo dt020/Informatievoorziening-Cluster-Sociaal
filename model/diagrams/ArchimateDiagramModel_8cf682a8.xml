@@ -472,33 +472,34 @@
       xsi:type="archimate:DiagramModelNote"
       id="85c26940"
       textAlignment="1"
-      content="56000 cliënten&#xD;&#xA;2000 gebruikers&#xD;&#xA;">
+      content="SvZ 20171109&#xD;&#xA;28702 cliënten&#xD;&#xA;2196 gebruikers&#xD;&#xA;35229 dossiers totaal">
     <bounds
         x="48"
-        y="60"
+        y="36"
         width="120"
-        height="50"/>
+        height="74"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="9245cd1d"
       textAlignment="1"
-      content="??? Cliënten&#xD;&#xA;??? gebruikers&#xD;&#xA;">
+      content="SvZ 20171109&#xD;&#xA;8474 cliënten&#xD;&#xA;700 gebruikers&#xD;&#xA;21144 dossiers totaal">
     <bounds
         x="177"
-        y="60"
+        y="36"
         width="120"
-        height="50"/>
+        height="74"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="17431bd8"
-      textAlignment="1">
+      textAlignment="1"
+      content="SvZ 20171109&#xD;&#xA;1900 cliënten&#xD;&#xA;200 gebruikers&#xD;&#xA;9000 dossiers totaal">
     <bounds
         x="312"
-        y="60"
+        y="36"
         width="120"
-        height="50"/>
+        height="74"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
