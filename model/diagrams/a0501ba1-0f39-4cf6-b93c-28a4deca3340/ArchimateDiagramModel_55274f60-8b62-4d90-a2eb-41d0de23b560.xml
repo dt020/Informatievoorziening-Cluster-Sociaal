@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overzicht Informatiestroom"
+    name="Overzicht Informatiestroom huidige situatie 2018"
     id="55274f60-8b62-4d90-a2eb-41d0de23b560">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -119,7 +119,7 @@
       id="e3fe2294-a3a7-4ff3-9117-a9c01a137434">
     <bounds
         x="552"
-        y="132"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -178,7 +178,7 @@
       targetConnections="bae923fd-bc3d-4587-be2f-170b75718388">
     <bounds
         x="576"
-        y="168"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
