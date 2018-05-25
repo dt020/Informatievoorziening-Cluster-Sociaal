@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data-analyse"
-    id="23c31c45-da7a-40bb-9d6a-ddd372750353"/>
+    name="Statistische data-analyse"
+    id="23c31c45-da7a-40bb-9d6a-ddd372750353"
+    documentation="Overleg 20180517: data-analyse bij OIS is meer statistische analyse en onderzoek, inclusief voorspellend onderzoek. Moderne term: Datascience. Daarvoor is nodig dat ze een databerg opbouwen"/>
