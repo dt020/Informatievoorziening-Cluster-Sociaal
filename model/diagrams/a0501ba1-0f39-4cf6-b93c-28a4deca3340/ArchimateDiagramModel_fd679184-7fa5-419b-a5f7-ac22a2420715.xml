@@ -426,4 +426,15 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_a27a64c3-7b99-4162-91c4-43c51514f409.xml#a27a64c3-7b99-4162-91c4-43c51514f409"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4ee2ca1a-7bb5-484c-9a15-357a504280b1"
+      textAlignment="1"
+      content="Gemeente Amsterdam&#xD;&#xA;Zicht en Grip op Sociaal&#xD;&#xA;Producten en Diensten&#xD;&#xA;Huidige situatie&#xD;&#xA;Versie 20180601">
+    <bounds
+        x="576"
+        y="528"
+        width="181"
+        height="85"/>
+  </children>
 </archimate:ArchimateDiagramModel>

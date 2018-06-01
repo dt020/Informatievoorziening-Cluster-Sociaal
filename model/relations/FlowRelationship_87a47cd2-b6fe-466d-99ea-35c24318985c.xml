@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notificatie"
+    id="87a47cd2-b6fe-466d-99ea-35c24318985c">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_27a7ee36-05eb-4af2-b024-cbcd24652de1.xml#27a7ee36-05eb-4af2-b024-cbcd24652de1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_8cd8ace1-4bda-44c2-bb5b-63a4181b5cfc.xml#8cd8ace1-4bda-44c2-bb5b-63a4181b5cfc"/>
+</archimate:FlowRelationship>
