@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Producten en diensten"
-    id="fd679184-7fa5-419b-a5f7-ac22a2420715">
+    id="fd679184-7fa5-419b-a5f7-ac22a2420715"
+    documentation="Mbt het BI-werk, opmerking in het overleg van 7 juni: Kennelijk heeft Bas Sluijsmans een 'Intakeprocedure' ontworpen voor werk dat op het BI team afkomt&#xD;&#xA;Die zou ik kunnen opvragen om goed de huidige situatie weer te geven">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f3e9460a-9cb5-415d-ad1e-85cff40d86ef"
@@ -430,11 +431,57 @@
       xsi:type="archimate:DiagramModelNote"
       id="4ee2ca1a-7bb5-484c-9a15-357a504280b1"
       textAlignment="1"
-      content="Gemeente Amsterdam&#xD;&#xA;Zicht en Grip op Sociaal&#xD;&#xA;Producten en Diensten&#xD;&#xA;Huidige situatie&#xD;&#xA;Versie 20180601">
+      content="Gemeente Amsterdam&#xD;&#xA;Zicht en Grip op Sociaal&#xD;&#xA;Producten en Diensten&#xD;&#xA;Huidige situatie&#xD;&#xA;Versie 20180710">
     <bounds
-        x="576"
+        x="774"
         y="528"
-        width="181"
+        width="163"
         height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="935f99b4-e192-46c5-84f1-4778602e9158">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f465d5fe-59dc-4ad1-9da2-84bddf5972bb"
+        source="935f99b4-e192-46c5-84f1-4778602e9158"
+        target="15666620-79d1-47fc-bc0b-586291e80ef6">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_d5353cf1-a5eb-407d-9194-e4fce3a4c230.xml#d5353cf1-a5eb-407d-9194-e4fce3a4c230"/>
+    </sourceConnections>
+    <bounds
+        x="792"
+        y="144"
+        width="145"
+        height="175"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="15666620-79d1-47fc-bc0b-586291e80ef6"
+        targetConnections="f465d5fe-59dc-4ad1-9da2-84bddf5972bb">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_f2ddc37e-d966-4cd5-9b62-19347089d7af.xml#f2ddc37e-d966-4cd5-9b62-19347089d7af"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="177f6ef1-425f-4a42-90ab-0fba41af3688">
+      <bounds
+          x="12"
+          y="108"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Product"
+          href="Product_efbf60e9-cec4-44c4-a8ee-848a9e10c441.xml#efbf60e9-cec4-44c4-a8ee-848a9e10c441"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_5f7c08b5-b1e2-4365-baab-2bc2012f7c0f.xml#5f7c08b5-b1e2-4365-baab-2bc2012f7c0f"/>
   </children>
 </archimate:ArchimateDiagramModel>
