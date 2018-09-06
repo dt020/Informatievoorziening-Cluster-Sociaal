@@ -510,7 +510,7 @@
     </sourceConnections>
     <bounds
         x="192"
-        y="816"
+        y="804"
         width="301"
         height="169"/>
     <archimateElement
@@ -576,7 +576,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bc183b4a-48da-4c04-a88a-0a01fe2e5db9"
-      fillColor="#ffff97">
+      fillColor="#ffc993">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="8255df23-b496-408b-a717-f2b776ea50c3"
