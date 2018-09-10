@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft/krijgt een"
     id="55a67ffd-fc5c-43f3-82ce-798929491753">
   <source
       xsi:type="archimate:BusinessObject"
