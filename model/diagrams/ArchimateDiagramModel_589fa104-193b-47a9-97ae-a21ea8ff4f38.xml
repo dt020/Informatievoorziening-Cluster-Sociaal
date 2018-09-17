@@ -1205,4 +1205,17 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_366ee87b-0152-456f-a552-c6c948193328.xml#366ee87b-0152-456f-a552-c6c948193328"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="198da209-b38c-442d-bcfb-9fe1739bac7c"
+      fillColor="#ff8080">
+    <bounds
+        x="454"
+        y="516"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_0ab74351-086d-4d30-af75-5e9f3e3c9ab7.xml#0ab74351-086d-4d30-af75-5e9f3e3c9ab7"/>
+  </children>
 </archimate:ArchimateDiagramModel>
