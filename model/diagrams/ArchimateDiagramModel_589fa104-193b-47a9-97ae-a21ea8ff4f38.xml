@@ -1227,17 +1227,4 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_3941fcc4-5b98-4733-8926-07d9840ce839.xml#3941fcc4-5b98-4733-8926-07d9840ce839"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="bbb92bba-c08e-4a7d-95d5-e88f00a2e50f"
-      fillColor="#004080">
-    <bounds
-        x="751"
-        y="906"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_bba9cca7-7556-4cb2-ae6f-713fda0d8a6d.xml#bba9cca7-7556-4cb2-ae6f-713fda0d8a6d"/>
-  </children>
 </archimate:ArchimateDiagramModel>
