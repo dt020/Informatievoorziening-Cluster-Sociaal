@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Huishouden"
-    id="952cae9e-298a-42ab-926f-8f38595a18cf"/>
+    id="952cae9e-298a-42ab-926f-8f38595a18cf"
+    documentation="Definitie volgens  https://git.datapunt.amsterdam.nl/Basisstatistiek/huishouden: &quot;Eén of meer personen ingeschreven in Amsterdam die gezamenlijk op een adres wonen en er in hun eerste levensbehoeften voorzien.&quot;"/>

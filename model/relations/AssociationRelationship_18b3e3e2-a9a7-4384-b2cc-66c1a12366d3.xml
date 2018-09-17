@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft"
     id="18b3e3e2-a9a7-4384-b2cc-66c1a12366d3">
   <source
       xsi:type="archimate:BusinessObject"
