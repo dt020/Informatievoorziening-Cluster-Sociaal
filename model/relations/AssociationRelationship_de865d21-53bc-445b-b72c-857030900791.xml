@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="biedt"
     id="de865d21-53bc-445b-b72c-857030900791">
   <source
       xsi:type="archimate:BusinessObject"

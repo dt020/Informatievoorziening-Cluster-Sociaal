@@ -153,7 +153,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ba807b65-52c5-47be-8aaf-71db3623a205"
-      targetConnections="6c1d5c6c-6df6-48aa-b820-99a58410784c de3efc43-477c-4173-b33e-0fb4ea8ff162 cb6ab97b-d7f3-4ff7-a0d6-4684bb2f4e05">
+      targetConnections="6c1d5c6c-6df6-48aa-b820-99a58410784c de3efc43-477c-4173-b33e-0fb4ea8ff162 cb6ab97b-d7f3-4ff7-a0d6-4684bb2f4e05"
+      fillColor="#ffff80">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="31d5a922-b231-4e59-a914-d2fd75153b31"
@@ -903,7 +904,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7e13693d-4af4-4b75-81de-1ef03b581953"
-      targetConnections="18ea966a-4650-49a3-8d1d-9958fe23b1c0 c306e250-f78d-436d-861c-4a90451a6ed7 31d5a922-b231-4e59-a914-d2fd75153b31">
+      targetConnections="18ea966a-4650-49a3-8d1d-9958fe23b1c0 c306e250-f78d-436d-861c-4a90451a6ed7 31d5a922-b231-4e59-a914-d2fd75153b31"
+      fillColor="#ffff80">
     <bounds
         x="1321"
         y="384"
@@ -1098,7 +1100,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="30aa94a6-262b-479c-b618-ee4f1e8585ec"
       textAlignment="1"
-      content="Gemeente Amsterdam&#xD;&#xA;Zicht en Grip op Sociaal&#xD;&#xA;Informatiemodel&#xD;&#xA;Versie 20181001">
+      content="Gemeente Amsterdam&#xD;&#xA;Zicht en Grip op Sociaal&#xD;&#xA;Informatiemodel&#xD;&#xA;Versie 20181002">
     <bounds
         x="34"
         y="-12"

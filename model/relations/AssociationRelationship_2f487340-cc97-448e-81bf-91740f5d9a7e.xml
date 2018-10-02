@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="van"
     id="2f487340-cc97-448e-81bf-91740f5d9a7e">
   <source
       xsi:type="archimate:BusinessObject"

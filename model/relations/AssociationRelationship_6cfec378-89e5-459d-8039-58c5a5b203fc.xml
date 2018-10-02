@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="door"
-    id="9977e676-c89f-4a15-aad7-3e698dde9a0d">
+    name="heeft/krijgt"
+    id="6cfec378-89e5-459d-8039-58c5a5b203fc">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_2d9352f1-4a9f-4f87-b9ee-29c2f373d9b3.xml#2d9352f1-4a9f-4f87-b9ee-29c2f373d9b3"/>
+      href="BusinessObject_dfcb8262-fcda-4f00-8701-6e1fa46ddd37.xml#dfcb8262-fcda-4f00-8701-6e1fa46ddd37"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_956f4b04-f4ea-45d8-bcf1-fec092f684d9.xml#956f4b04-f4ea-45d8-bcf1-fec092f684d9"/>
+      href="BusinessObject_8710b3ad-3e80-45d2-bf5c-4d1214575518.xml#8710b3ad-3e80-45d2-bf5c-4d1214575518"/>
 </archimate:AssociationRelationship>

@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="door"
-    id="9977e676-c89f-4a15-aad7-3e698dde9a0d">
+    name="voor"
+    id="c1841dee-1ed6-4e21-874f-dd09dd054318">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_2d9352f1-4a9f-4f87-b9ee-29c2f373d9b3.xml#2d9352f1-4a9f-4f87-b9ee-29c2f373d9b3"/>
+      href="BusinessObject_55a59ea6-8702-4906-a814-db6f9959065d.xml#55a59ea6-8702-4906-a814-db6f9959065d"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_956f4b04-f4ea-45d8-bcf1-fec092f684d9.xml#956f4b04-f4ea-45d8-bcf1-fec092f684d9"/>
+      href="BusinessObject_5abe0667-e993-4f24-be43-76a2dcc644f6.xml#5abe0667-e993-4f24-be43-76a2dcc644f6"/>
 </archimate:AssociationRelationship>
