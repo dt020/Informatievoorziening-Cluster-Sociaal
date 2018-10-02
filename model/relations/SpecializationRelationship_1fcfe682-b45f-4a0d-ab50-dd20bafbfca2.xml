@@ -2,10 +2,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="kan zijn"
-    id="8ef664f5-7939-44f4-8d9d-42c24cf5ffe2">
+    id="1fcfe682-b45f-4a0d-ab50-dd20bafbfca2">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_26194087-dcc5-4684-ae91-14febb89c59b.xml#26194087-dcc5-4684-ae91-14febb89c59b"/>
+      href="BusinessObject_1fa877d4-c869-4350-9144-e32fc621aee1.xml#1fa877d4-c869-4350-9144-e32fc621aee1"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_e9cb1f80-6196-42fd-9a05-b5f870476d3c.xml#e9cb1f80-6196-42fd-9a05-b5f870476d3c"/>

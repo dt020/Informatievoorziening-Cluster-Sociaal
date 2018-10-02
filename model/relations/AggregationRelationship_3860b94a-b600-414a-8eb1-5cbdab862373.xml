@@ -1,12 +1,12 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is onderdeel van"
-    id="6fe9df1d-ef18-45f8-9d06-5f2671f94e46">
+    name="ligt in"
+    id="3860b94a-b600-414a-8eb1-5cbdab862373">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_952cae9e-298a-42ab-926f-8f38595a18cf.xml#952cae9e-298a-42ab-926f-8f38595a18cf"/>
+      href="BusinessObject_488d48d2-e460-404f-b405-f6a3e0675228.xml#488d48d2-e460-404f-b405-f6a3e0675228"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_211ece9f-57d0-49ba-8939-da37a001a790.xml#211ece9f-57d0-49ba-8939-da37a001a790"/>
+      href="BusinessObject_49c60bc1-f684-490c-b01f-93c86a1c1c92.xml#49c60bc1-f684-490c-b01f-93c86a1c1c92"/>
 </archimate:AggregationRelationship>

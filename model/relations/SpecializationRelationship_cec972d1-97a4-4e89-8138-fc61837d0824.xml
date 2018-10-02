@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kan zijn"
     id="cec972d1-97a4-4e89-8138-fc61837d0824">
   <source
       xsi:type="archimate:BusinessObject"

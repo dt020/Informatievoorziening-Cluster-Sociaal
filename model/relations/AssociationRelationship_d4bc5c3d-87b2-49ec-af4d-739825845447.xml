@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft recht op"
+    id="d4bc5c3d-87b2-49ec-af4d-739825845447">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_8710b3ad-3e80-45d2-bf5c-4d1214575518.xml#8710b3ad-3e80-45d2-bf5c-4d1214575518"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_5abe0667-e993-4f24-be43-76a2dcc644f6.xml#5abe0667-e993-4f24-be43-76a2dcc644f6"/>
+</archimate:AssociationRelationship>
