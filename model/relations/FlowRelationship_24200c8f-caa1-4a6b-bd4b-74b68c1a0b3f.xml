@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Notificatie"
-    id="b78f5792-481e-4ae9-9db4-649883a241f2">
+    id="24200c8f-caa1-4a6b-bd4b-74b68c1a0b3f">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_0ebd27a5-68bf-4cc5-886d-e79c29c38fa7.xml#0ebd27a5-68bf-4cc5-886d-e79c29c38fa7"/>
+      href="ApplicationComponent_aa05316a-3e84-4295-b453-f6cec2c17a9d.xml#aa05316a-3e84-4295-b453-f6cec2c17a9d"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_27a7ee36-05eb-4af2-b024-cbcd24652de1.xml#27a7ee36-05eb-4af2-b024-cbcd24652de1"/>
+      href="BusinessProcess_308495c7-ed13-4292-a81b-55bf4251e956.xml#308495c7-ed13-4292-a81b-55bf4251e956"/>
 </archimate:FlowRelationship>
