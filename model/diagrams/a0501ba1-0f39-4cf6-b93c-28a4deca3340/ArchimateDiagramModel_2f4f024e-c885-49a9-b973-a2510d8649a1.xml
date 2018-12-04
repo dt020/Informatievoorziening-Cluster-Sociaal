@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BI-dienstverlening sociaal domein, huidige situatie 2018"
+    name="BI-dienstverlening OJZ, huidige situatie 2018"
     id="2f4f024e-c885-49a9-b973-a2510d8649a1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -24,18 +24,9 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_891f6b74.xml#891f6b74"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c1e3b226-6e03-4d6b-84f5-36ae0afabb02"
-        source="febb67b5-be44-4807-8613-f622b8199ba9"
-        target="65a2b0b4-4992-4d65-97df-0c978a0f94a2">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_538849dc-0c06-4b28-9850-29bb2acdb054.xml#538849dc-0c06-4b28-9850-29bb2acdb054"/>
-    </sourceConnections>
     <bounds
-        x="12"
-        y="12"
+        x="156"
+        y="-19"
         width="120"
         height="55"/>
     <archimateElement
@@ -918,6 +909,15 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_a94db2de.xml#a94db2de"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ff603aae-01c7-41bf-952e-059f7eaf5adb"
+        source="b88fa952-0bb9-411d-a1e2-5d3aed32ebc5"
+        target="bce31ea9-b9a8-4942-aa5f-d6dc74639c1b">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_b70be980-740e-43c6-abf9-1802345ef864.xml#b70be980-740e-43c6-abf9-1802345ef864"/>
+    </sourceConnections>
     <bounds
         x="588"
         y="569"
@@ -930,7 +930,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bce31ea9-b9a8-4942-aa5f-d6dc74639c1b"
-      targetConnections="61f22c7d-1461-4d15-91da-9ca54c1de36f">
+      targetConnections="61f22c7d-1461-4d15-91da-9ca54c1de36f ff603aae-01c7-41bf-952e-059f7eaf5adb">
     <bounds
         x="588"
         y="353"
@@ -944,7 +944,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="febcd1c4-dd26-4af3-956d-c56931c98407"
       textAlignment="1"
-      content="Gemeente Amsterdam&#xD;&#xA;BI-Dienstverlening sociaal domein&#xD;&#xA;Betrokkenen, Produkten, Systemen&#xD;&#xA;Huidige situatie&#xD;&#xA;Versie 20180420">
+      content="Gemeente Amsterdam&#xD;&#xA;BI-Dienstverlening sociaal domein&#xD;&#xA;Betrokkenen, Produkten, Systemen&#xD;&#xA;Huidige situatie&#xD;&#xA;Versie 20181204">
     <bounds
         x="1380"
         y="749"
@@ -1177,30 +1177,5 @@
         y="252"
         width="241"
         height="84"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="65a2b0b4-4992-4d65-97df-0c978a0f94a2"
-      targetConnections="c1e3b226-6e03-4d6b-84f5-36ae0afabb02">
-    <bounds
-        x="12"
-        y="101"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_739dff33.xml#739dff33"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6e61b660-cf56-4cff-9578-1527302e1759">
-    <bounds
-        x="12"
-        y="425"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_04535945-1e88-45c6-8e3a-672cec3a4bd4.xml#04535945-1e88-45c6-8e3a-672cec3a4bd4"/>
   </children>
 </archimate:ArchimateDiagramModel>
