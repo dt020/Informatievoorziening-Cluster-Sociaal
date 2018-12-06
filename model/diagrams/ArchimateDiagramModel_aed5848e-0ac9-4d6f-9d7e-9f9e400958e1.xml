@@ -280,15 +280,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4132ce78-5142-41fc-a213-4a331c96cfd9"
       targetConnections="3c1fb318-cc42-4e37-a9b4-488cf87830d0">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="bbbc54fc-042d-48f8-b6f1-4e7539dbe8b3"
-        source="4132ce78-5142-41fc-a213-4a331c96cfd9"
-        target="dcceca0e-d018-47b0-8e86-031097894a2e">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_8bb06aa2.xml#8bb06aa2"/>
-    </sourceConnections>
     <bounds
         x="756"
         y="528"
@@ -300,8 +291,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="dcceca0e-d018-47b0-8e86-031097894a2e"
-      targetConnections="bbbc54fc-042d-48f8-b6f1-4e7539dbe8b3">
+      id="dcceca0e-d018-47b0-8e86-031097894a2e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e89ebc95-99dd-4e58-928a-286dafb386d1"
@@ -664,15 +654,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5b666f26-473d-4933-9037-dcd197f2fb8f"
       targetConnections="a0cefd35-ac27-4786-bef9-fbb9f2872b0e">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="18ea6a68-7a8b-4bf4-9f8e-35152c4c7bd4"
-        source="5b666f26-473d-4933-9037-dcd197f2fb8f"
-        target="ff59920b-e660-4b34-80b2-1a4f3923817b">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_0fc40aa0.xml#0fc40aa0"/>
-    </sourceConnections>
     <bounds
         x="1056"
         y="528"
@@ -684,8 +665,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ff59920b-e660-4b34-80b2-1a4f3923817b"
-      targetConnections="18ea6a68-7a8b-4bf4-9f8e-35152c4c7bd4">
+      id="ff59920b-e660-4b34-80b2-1a4f3923817b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b8708963-e9ae-49cb-a426-5c7122db2db0"
