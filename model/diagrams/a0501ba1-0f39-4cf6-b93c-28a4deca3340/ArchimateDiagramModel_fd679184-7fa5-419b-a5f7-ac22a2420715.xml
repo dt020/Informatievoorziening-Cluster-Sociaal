@@ -38,8 +38,8 @@
     <bounds
         x="72"
         y="144"
-        width="156"
-        height="469"/>
+        width="301"
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0f885557-8a18-431d-9138-99978e8d7785"
@@ -70,8 +70,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a7234609-cd06-46fa-a3da-76d0e67ccb47">
       <bounds
-          x="18"
-          y="324"
+          x="168"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -82,8 +82,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8398f441-54c7-4ea4-8946-85a06c03b35f">
       <bounds
-          x="18"
-          y="252"
+          x="168"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -94,8 +94,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="10becb65-c02f-46d4-aa9d-eaff1a29f0e4">
       <bounds
-          x="18"
-          y="396"
+          x="168"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -114,6 +114,18 @@
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_0d207f6b-d49a-46fb-8456-f207cc9dcd18.xml#0d207f6b-d49a-46fb-8456-f207cc9dcd18"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="bb4dd517-b81e-4557-82d9-5f717632dfa6">
+      <bounds
+          x="168"
+          y="252"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Product"
+          href="Product_16a711fd-4420-406c-a289-870a3b10fe24.xml#16a711fd-4420-406c-a289-870a3b10fe24"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -142,7 +154,7 @@
           href="RealizationRelationship_60c9acdd-37f8-421a-a13c-457bbd69a14e.xml#60c9acdd-37f8-421a-a13c-457bbd69a14e"/>
     </sourceConnections>
     <bounds
-        x="254"
+        x="396"
         y="144"
         width="143"
         height="175"/>
@@ -198,7 +210,7 @@
           href="AssignmentRelationship_95c44b57.xml#95c44b57"/>
     </sourceConnections>
     <bounds
-        x="180"
+        x="324"
         y="48"
         width="120"
         height="55"/>
@@ -220,7 +232,7 @@
           href="AssignmentRelationship_c472543b.xml#c472543b"/>
     </sourceConnections>
     <bounds
-        x="444"
+        x="586"
         y="48"
         width="120"
         height="55"/>
@@ -260,7 +272,7 @@
           href="RealizationRelationship_d8f20125-81b8-411d-96ba-84fef31ad48d.xml#d8f20125-81b8-411d-96ba-84fef31ad48d"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="574"
         y="144"
         width="145"
         height="325"/>
@@ -341,7 +353,7 @@
           href="AssignmentRelationship_fbbae9fd-7b20-4f43-b712-d348e3161aaa.xml#fbbae9fd-7b20-4f43-b712-d348e3161aaa"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="766"
         y="48"
         width="120"
         height="55"/>
@@ -381,7 +393,7 @@
           href="AggregationRelationship_72017c5c-e96d-45ce-adaf-c32b659a92f1.xml#72017c5c-e96d-45ce-adaf-c32b659a92f1"/>
     </sourceConnections>
     <bounds
-        x="612"
+        x="754"
         y="144"
         width="145"
         height="277"/>
@@ -431,11 +443,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="4ee2ca1a-7bb5-484c-9a15-357a504280b1"
       textAlignment="1"
-      content="Gemeente Amsterdam&#xD;&#xA;Zicht en Grip op Sociaal&#xD;&#xA;Producten en Diensten&#xD;&#xA;Huidige situatie&#xD;&#xA;Versie 20180710">
+      content="Gemeente Amsterdam&#xD;&#xA;Zicht en Grip op Sociaal&#xD;&#xA;Producten en Diensten&#xD;&#xA;Huidige situatie&#xD;&#xA;Versie 20190118">
     <bounds
-        x="774"
-        y="528"
-        width="163"
+        x="934"
+        y="384"
+        width="145"
         height="85"/>
   </children>
   <children
@@ -451,7 +463,7 @@
           href="RealizationRelationship_d5353cf1-a5eb-407d-9194-e4fce3a4c230.xml#d5353cf1-a5eb-407d-9194-e4fce3a4c230"/>
     </sourceConnections>
     <bounds
-        x="792"
+        x="934"
         y="144"
         width="145"
         height="175"/>
