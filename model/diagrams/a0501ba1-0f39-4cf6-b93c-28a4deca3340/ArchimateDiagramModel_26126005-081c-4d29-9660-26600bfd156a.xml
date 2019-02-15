@@ -103,7 +103,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c51776c1-46c1-41c3-9f91-49c6fea24efe"
-      targetConnections="72f02a8d-9bbc-4488-928c-f03008a43d11 6a86e400-c49c-48d2-9d24-61f237b80992">
+      targetConnections="6a86e400-c49c-48d2-9d24-61f237b80992">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9f463964-0d42-4bac-b1f3-d4a83b32cde3"
@@ -424,29 +424,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="443af2c3-b8bb-41bc-ab78-9733b806dbef"
-        source="4b7339d3-d763-4283-bc85-d35fa5f35f1b"
-        target="b79e5994-abfb-4d31-b88e-0bf19816919e">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_ead3ccde-8ab5-4ac7-abcd-afca186a6264.xml#ead3ccde-8ab5-4ac7-abcd-afca186a6264"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="72f02a8d-9bbc-4488-928c-f03008a43d11"
-        source="4b7339d3-d763-4283-bc85-d35fa5f35f1b"
-        target="c51776c1-46c1-41c3-9f91-49c6fea24efe">
-      <bendpoints
-          startX="360"
-          startY="-481"
-          endX="-72"
-          endY="-3"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_9e579b2b-d490-4a60-9cd7-2ec825c2556c.xml#9e579b2b-d490-4a60-9cd7-2ec825c2556c"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="6a86e400-c49c-48d2-9d24-61f237b80992"
         source="4b7339d3-d763-4283-bc85-d35fa5f35f1b"
         target="c51776c1-46c1-41c3-9f91-49c6fea24efe">
@@ -492,7 +469,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b79e5994-abfb-4d31-b88e-0bf19816919e"
-      targetConnections="88108b0d-e0c0-44c9-af5c-a6ab3e197e46 443af2c3-b8bb-41bc-ab78-9733b806dbef">
+      targetConnections="88108b0d-e0c0-44c9-af5c-a6ab3e197e46">
     <bounds
         x="1452"
         y="228"
