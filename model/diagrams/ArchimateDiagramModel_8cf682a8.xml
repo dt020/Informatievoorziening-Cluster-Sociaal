@@ -337,7 +337,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="9fb8ece8-62a8-4886-9277-e06fd291c56f"
       textAlignment="1"
-      content="Hannelore Mulier, manager Armoede en Participatie Zuidoost">
+      content="Hannelore Mulier, Manager Armoede en Participatie Zuidoost">
     <bounds
         x="597"
         y="996"
@@ -577,11 +577,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="7ad05529-c549-4b16-8e7e-b7b87fb2b6a5"
       textAlignment="1"
-      content="Tako Engelfriet, Programmamanager Meldpunten Zorg en Woonoverlast&#x9;&#xD;&#xA;Kitty Hoek, Procesmanager Treiteraanpak">
+      content="Kitty Hoek, Procesmanager Treiteraanpak">
     <bounds
-        x="215"
+        x="312"
         y="996"
-        width="208"
+        width="120"
         height="73"/>
   </children>
   <children
@@ -972,5 +972,16 @@
         y="37"
         width="255"
         height="74"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="eeb031e1-2ee5-47ed-ac39-f4035da8c0f6"
+      textAlignment="1"
+      content="Tako Engelfriet, Programmamanager Meldpunten Zorg en Woonoverlast&#x9;">
+    <bounds
+        x="180"
+        y="996"
+        width="120"
+        height="73"/>
   </children>
 </archimate:ArchimateDiagramModel>
