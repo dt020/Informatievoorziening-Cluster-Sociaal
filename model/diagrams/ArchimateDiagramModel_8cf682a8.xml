@@ -442,7 +442,7 @@
     <bounds
         x="447"
         y="132"
-        width="120"
+        width="130"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -555,7 +555,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="1a512a08-0f38-4fdf-9f05-4b372bc69a81"
       textAlignment="1"
-      content="SvZ 20180402&#xD;&#xA;??? cliënten&#xD;&#xA;70 gebruikers&#xD;&#xA;40000 zaakdossiers (2005 - heden)">
+      content="SvZ 20190402&#xD;&#xA;??? cliënten&#xD;&#xA;70 gebruikers&#xD;&#xA;40000 zaakdossiers (2005 - heden)">
     <bounds
         x="180"
         y="517"
@@ -566,7 +566,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="8f62ccb7-4316-4d2c-bc23-44340899794c"
       textAlignment="1"
-      content="SvZ 20180402&#xD;&#xA;??? cliënten&#xD;&#xA;20 gebruikers&#xD;&#xA;650 dossiers (2013 - 2018)&#xD;&#xA;Per augustus 2018 over op VH-TRAP">
+      content="SvZ 20190402&#xD;&#xA;??? cliënten&#xD;&#xA;20 gebruikers&#xD;&#xA;650 dossiers (2013 - 2018)&#xD;&#xA;Per augustus 2018 over op VH-TRAP">
     <bounds
         x="319"
         y="517"
