@@ -59,7 +59,7 @@
     </sourceConnections>
     <bounds
         x="886"
-        y="684"
+        y="708"
         width="120"
         height="55"/>
     <archimateElement
@@ -80,7 +80,7 @@
     </sourceConnections>
     <bounds
         x="180"
-        y="684"
+        y="708"
         width="120"
         height="55"/>
     <archimateElement
@@ -153,7 +153,7 @@
       targetConnections="823fd0e1 91b72fdf-705f-443a-9a48-e23e6ffd8c54">
     <bounds
         x="180"
-        y="768"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -166,7 +166,7 @@
       targetConnections="b6f54418 54e5c8db">
     <bounds
         x="886"
-        y="768"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -179,7 +179,7 @@
       targetConnections="a88f31e9 3e5692ec">
     <bounds
         x="312"
-        y="768"
+        y="792"
         width="133"
         height="55"/>
     <archimateElement
@@ -200,7 +200,7 @@
     </sourceConnections>
     <bounds
         x="312"
-        y="684"
+        y="708"
         width="145"
         height="55"/>
     <archimateElement
@@ -214,7 +214,7 @@
       content="Gebruikers">
     <bounds
         x="1126"
-        y="697"
+        y="721"
         width="72"
         height="30"/>
   </children>
@@ -225,7 +225,7 @@
       content="Verantwoordelijkheid / taakgebied">
     <bounds
         x="1066"
-        y="777"
+        y="801"
         width="130"
         height="37"/>
   </children>
@@ -236,7 +236,7 @@
       content="Applicatie&#xD;&#xA;">
     <bounds
         x="1128"
-        y="884"
+        y="908"
         width="68"
         height="24"/>
   </children>
@@ -283,7 +283,7 @@
       content="Doelgroep&#xD;&#xA;">
     <bounds
         x="1110"
-        y="625"
+        y="649"
         width="86"
         height="29"/>
   </children>
@@ -326,7 +326,7 @@
       targetConnections="34bf7e2b">
     <bounds
         x="756"
-        y="768"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -340,7 +340,7 @@
       content="Hannelore Mulier, manager Armoede en Participatie Zuidoost">
     <bounds
         x="597"
-        y="972"
+        y="996"
         width="120"
         height="73"/>
   </children>
@@ -350,7 +350,7 @@
       targetConnections="ea33fc02-6f01-40d8-bc1a-a8d07ffe42a8">
     <bounds
         x="597"
-        y="768"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -371,7 +371,7 @@
     </sourceConnections>
     <bounds
         x="468"
-        y="684"
+        y="708"
         width="120"
         height="55"/>
     <archimateElement
@@ -384,7 +384,7 @@
       targetConnections="125883a9-b41f-45f8-9797-9f7da040970d d928586b-76a3-4eaa-8496-424f87bc14c7">
     <bounds
         x="468"
-        y="768"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -398,7 +398,7 @@
       content="Jasper van der Zee, Coördinator afdeling Woonruimteverdeling en -toewijzing">
     <bounds
         x="468"
-        y="972"
+        y="996"
         width="120"
         height="73"/>
   </children>
@@ -408,7 +408,7 @@
       targetConnections="2d5951fd-a60f-413e-948e-36a73fcdb230 6f5be1a8-bc55-4cdf-ac80-9c5b67adb1bc">
     <bounds
         x="48"
-        y="768"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -429,7 +429,7 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="684"
+        y="708"
         width="120"
         height="55"/>
     <archimateElement
@@ -532,7 +532,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="d43941c1-50a9-47fb-9297-ad0fa720f1f8"
       textAlignment="1"
-      content="Gemeente Amsterdam&#xD;&#xA;Informatievoorziening Sociaal&#xD;&#xA;Overzicht RIS systemen&#xD;&#xA;Huidige situatie 2018&#xD;&#xA;Versie 20180202">
+      content="Gemeente Amsterdam&#xD;&#xA;Informatievoorziening Sociaal&#xD;&#xA;Overzicht RIS systemen&#xD;&#xA;Huidige situatie 2019&#xD;&#xA;Versie 20190507">
     <bounds
         x="1020"
         y="37"
@@ -544,7 +544,7 @@
       id="f6271cc8-6e09-45d0-941f-e2ba2e55a34a">
     <bounds
         x="180"
-        y="612"
+        y="636"
         width="277"
         height="56"/>
     <archimateElement
@@ -555,33 +555,33 @@
       xsi:type="archimate:DiagramModelNote"
       id="1a512a08-0f38-4fdf-9f05-4b372bc69a81"
       textAlignment="1"
-      content="SvZ 20180202&#xD;&#xA;??? cliënten&#xD;&#xA;70 gebruikers&#xD;&#xA;??? dossiers totaal">
+      content="SvZ 20180402&#xD;&#xA;??? cliënten&#xD;&#xA;70 gebruikers&#xD;&#xA;40000 zaakdossiers (2005 - heden)">
     <bounds
         x="180"
         y="517"
         width="120"
-        height="74"/>
+        height="84"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="8f62ccb7-4316-4d2c-bc23-44340899794c"
       textAlignment="1"
-      content="SvZ 20180202&#xD;&#xA;??? cliënten&#xD;&#xA;20 gebruikers&#xD;&#xA;??? dossiers totaal">
+      content="SvZ 20180402&#xD;&#xA;??? cliënten&#xD;&#xA;20 gebruikers&#xD;&#xA;650 dossiers (2013 - 2018)&#xD;&#xA;Per augustus 2018 over op VH-TRAP">
     <bounds
         x="319"
         y="517"
-        width="120"
-        height="74"/>
+        width="150"
+        height="108"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="7ad05529-c549-4b16-8e7e-b7b87fb2b6a5"
       textAlignment="1"
-      content="Rinze van Opstal, Manager Team Veiligheid en Meldpunt Zorg en Woonoverlast, Amsterdam West">
+      content="Tako Engelfriet, Programmamanager Meldpunten Zorg en Woonoverlast&#x9;&#xD;&#xA;Kitty Hoek, Procesmanager Treiteraanpak">
     <bounds
-        x="240"
-        y="972"
-        width="169"
+        x="215"
+        y="996"
+        width="208"
         height="73"/>
   </children>
   <children
@@ -589,7 +589,7 @@
       id="31d60ce9-0560-4fee-9961-6447c634eff3">
     <bounds
         x="576"
-        y="612"
+        y="636"
         width="161"
         height="55"/>
     <archimateElement
@@ -750,7 +750,7 @@
       id="ed1026fe-2fb6-47e4-b76a-27f432e46762">
     <bounds
         x="39"
-        y="840"
+        y="864"
         width="691"
         height="112"/>
     <children
@@ -855,7 +855,7 @@
       id="4c4ff7d6-d467-4833-b99a-0b05f3bf052c">
     <bounds
         x="743"
-        y="841"
+        y="865"
         width="274"
         height="109"/>
     <children
