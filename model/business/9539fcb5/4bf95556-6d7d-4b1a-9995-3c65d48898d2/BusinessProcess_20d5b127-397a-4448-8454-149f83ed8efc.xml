@@ -1,5 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Brondata pseudonimiseren"
-    id="20d5b127-397a-4448-8454-149f83ed8efc"
-    documentation="Het BI team vraagt een sleutel tbv pseudonimisering bij de sleutelverstrekker&#xD;&#xA;De sleutelverstrekker maakt de sleutel en geeft hem aan het BI-team&#xD;&#xA;Als de data uit verschillende bronnen komt wordt voor het pseudonimiseren dezelfde sleutel gebruikt&#xD;&#xA;Het BI-team psudonimiseert de data met gebruik van de verstrekte sleutel&#xD;&#xA;"/>
